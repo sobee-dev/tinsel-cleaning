@@ -3,13 +3,19 @@
 
 ### NextJS ###
 # dependencies
-node_modules/
+
 /.pnp
 .pnp.js
 
 # testing
 /coverage
-
+node_modules/
+.next/
+.env.local
+.env
+dist/
+build/
+*.log
 # next.js
 /.next/
 /out/
