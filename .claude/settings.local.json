@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(Get-Content \"C:\\\\Users\\\\User\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-User-Desktop-landing-page\\\\84992f9c-adb6-4597-8508-527648892a48\\\\tasks\\\\bqltxuuh4.output\")",
+      "Bash(Select-Object -Last 25)",
+      "Bash(tail -25 \"/mnt/c/Users/User/AppData/Local/Temp/claude/C--Users-User-Desktop-landing-page/84992f9c-adb6-4597-8508-527648892a48/tasks/bqltxuuh4.output\")",
+      "WebFetch(domain:www.swooshnigeria.com)",
+      "WebSearch",
+      "WebFetch(domain:www.pexels.com)",
+      "WebFetch(domain:coverr.co)",
+      "WebFetch(domain:mixkit.co)",
+      "WebFetch(domain:videos.pexels.com)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "WebFetch(domain:ymza.systeme.io)",
+      "WebFetch(domain:unsplash.com)"
+    ]
+  }
+}
